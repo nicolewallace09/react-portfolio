@@ -106,3 +106,26 @@ h1 {
   justify-content: flex-end;
   font-size: 24px;
 }
+
+#port-icon {
+  background-color: white;
+  margin: 0px 20px;
+}
+
+.project-title {
+  background-color: white;
+  font-weight: bold;
+}
+
+#key-icon {
+  background-color: lightblue;
+}
+
+.key {
+  margin: 50px 40px;
+}
+
+.github-link {
+  text-align: center;
+  font-size: 24px;
+}
