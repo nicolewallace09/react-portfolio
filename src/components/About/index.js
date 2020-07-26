@@ -5,7 +5,7 @@ import myImage from '../../assets/images/myimage.jpeg'
 function About() {
     return(
     <section className="title">
-      <h1 class="name">Nicole Wallace</h1>
+      <h1 class="name">NICOLE WALLACE</h1>
       {/* <img src={coverImage} className="banner" alt="cover" /> */}
       
       <div className="row" id="about-container">
@@ -13,7 +13,7 @@ function About() {
           <img src={myImage} className="my-image" alt="nicole-profile"/>
       </div>
       <div className="col-8">
-      <h2 class="welcome">GET TO KNOW ME</h2>
+      <h2 class="welcome"><i>GET TO KNOW ME</i></h2>
       <p>
       I switched my gears from my education in Business to take on Web Development to keep challenging myself in ways I thought I never could. 
       Web Development allows me to continually create and creatively find new ways to make processes better. I always believed that anything can be improved and 

@@ -1,0 +1,50 @@
+[
+    {
+    "id": 1,
+    "name": "Travel Planner",
+    "image": "https://raw.githubusercontent.com/izabelacloud/Travel-Planner/master/assets/images/App1.png",
+    "github": "https://github.com/nicolewallace09/travel-planner",
+    "deployedapp": "https://nicolewallace09.github.io/travel-planner/",
+    "description": "tbd"
+    },
+    {
+    "id": 2,
+    "name": "Techly",
+    "image": "https://github.com/nicolewallace09/techly/raw/master/assets/images/screenshot.png",
+    "github": "https://github.com/nicolewallace09/techly",
+    "deployedapp": "https://techly.herokuapp.com/",
+    "description": "tbd"
+    },
+    {
+    "id": 3,
+    "name": "Budget Tracker",
+    "image": "https://github.com/nicolewallace09/budget-tracker/raw/master/public/screen.png",
+    "github": "https://github.com/nicolewallace09/budget-tracker",
+    "deployedapp": "https://nw-budget-app.herokuapp.com/",
+    "description": "tbd"
+    },
+    {
+    "id": 4,
+    "name": "The Tech Blog",
+    "image": "https://github.com/nicolewallace09/the-tech-blog/raw/master/assets/images/screen.png",
+    "github": "https://github.com/nicolewallace09/the-tech-blog",
+    "deployedapp": "https://dry-harbor-54501.herokuapp.com/",
+    "description": "tbd"
+    },
+    {
+    "id": 5,
+    "name": "Work Day Scheduler",
+    "image": "https://github.com/nicolewallace09/work-day-scheduler/raw/master/assets/images/calender-shot.png",
+    "github": "https://github.com/nicolewallace09/work-day-scheduler",
+    "deployedapp": "https://nicolewallace09.github.io/work-day-scheduler/",
+    "description": "tbd"
+      },
+    {
+    "id": 6,
+    "name": "Note Taker",
+    "image": "https://github.com/nicolewallace09/note-taker/raw/master/image/note-taker.png",
+    "github": "https://github.com/nicolewallace09/note-taker",
+    "deployedapp": "https://note-express.herokuapp.com/notes",
+    "description": "tbd"
+    }
+]
