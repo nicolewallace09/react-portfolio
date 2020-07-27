@@ -1,6 +1,6 @@
 import React from 'react'; 
 // import myImage from assets
-import myImage from '../../assets/images/myimage.jpeg'
+import myImage from '../../assets/images/myimage.jpeg';
 
 function About() {
     return(

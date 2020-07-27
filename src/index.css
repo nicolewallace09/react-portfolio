@@ -14,7 +14,7 @@ code {
 
 /* my added css */
 * {
-  background: lightblue;
+  background: #f7d6e0;
 }
 
 p {
@@ -37,7 +37,7 @@ h1 {
   margin: 0px 100px;
 }
 
-.welcome, .key-title {
+.welcome, .key-title, .resume {
   font-weight: bold;
 }
 
@@ -117,20 +117,28 @@ h1 {
   font-weight: bold;
 }
 
-#key-icon {
-  background-color: lightblue;
-}
-
 .key {
   margin: 50px 40px;
 }
 
 .github-link {
   text-align: center;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 #contact-form {
   margin: 100px 700px;
-  font-size: 24px;
+  font-size: 18px;
 }
+
+.resume-container, .resume-intro {
+  justify-content: center;
+  margin: 50px;
+  font-size: 18px;
+}
+
+.nav-link, .link {
+  color:orange
+}
+
+
