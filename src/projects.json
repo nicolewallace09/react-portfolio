@@ -5,7 +5,7 @@
     "image": "https://raw.githubusercontent.com/izabelacloud/Travel-Planner/master/assets/images/App1.png",
     "github": "https://github.com/nicolewallace09/travel-planner",
     "deployedapp": "https://nicolewallace09.github.io/travel-planner/",
-    "description": "tbd"
+    "skills": "HTML | CSS | JavaScript | API"
     },
     {
     "id": 2,
@@ -13,7 +13,7 @@
     "image": "https://github.com/nicolewallace09/techly/raw/master/assets/images/screenshot.png",
     "github": "https://github.com/nicolewallace09/techly",
     "deployedapp": "https://techly.herokuapp.com/",
-    "description": "tbd"
+    "skills": "Express | MySQL | API"
     },
     {
     "id": 3,
@@ -21,7 +21,7 @@
     "image": "https://github.com/nicolewallace09/budget-tracker/raw/master/public/screen.png",
     "github": "https://github.com/nicolewallace09/budget-tracker",
     "deployedapp": "https://nw-budget-app.herokuapp.com/",
-    "description": "tbd"
+    "skills": "IndexDB | Service Workers | Web Manifest"
     },
     {
     "id": 4,
@@ -29,7 +29,7 @@
     "image": "https://github.com/nicolewallace09/the-tech-blog/raw/master/assets/images/screen.png",
     "github": "https://github.com/nicolewallace09/the-tech-blog",
     "deployedapp": "https://dry-harbor-54501.herokuapp.com/",
-    "description": "tbd"
+    "skills": "Handlebars | Sequelize | Express | API"
     },
     {
     "id": 5,
@@ -37,7 +37,7 @@
     "image": "https://github.com/nicolewallace09/work-day-scheduler/raw/master/assets/images/calender-shot.png",
     "github": "https://github.com/nicolewallace09/work-day-scheduler",
     "deployedapp": "https://nicolewallace09.github.io/work-day-scheduler/",
-    "description": "tbd"
+    "skills": "JavaScript | jQuery | API"
       },
     {
     "id": 6,
@@ -45,6 +45,6 @@
     "image": "https://github.com/nicolewallace09/note-taker/raw/master/image/note-taker.png",
     "github": "https://github.com/nicolewallace09/note-taker",
     "deployedapp": "https://note-express.herokuapp.com/notes",
-    "description": "tbd"
+    "skills": "Node | Express | API"
     }
 ]

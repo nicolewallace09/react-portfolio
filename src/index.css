@@ -13,18 +13,24 @@ code {
 }
 
 /* my added css */
-* {
-  background: #f7d6e0;
+*  {
+  background: #ffd6e0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p {
   font-size: 18px;
+  color: #d88c9a;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1 {
   margin: auto 30px; 
   padding: 10px;
-  font-family: Monaco;
+  color: #660033;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -37,8 +43,10 @@ h1 {
   margin: 0px 100px;
 }
 
-.welcome, .key-title, .resume {
+.welcome, .key-title, .resume, .name, .title, .contact {
   font-weight: bold;
+  color: #660033;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .card {
@@ -70,6 +78,8 @@ h1 {
   padding-right: 1rem;
   font-size: 18px;
   background-color: white;
+  color: #d88c9a;
+  font-weight: bold;
 }
 
 .card > .content > ul {
@@ -115,30 +125,51 @@ h1 {
 .project-title {
   background-color: white;
   font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .key {
   margin: 50px 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .github-link {
   text-align: center;
   font-size: 18px;
+  color: #d88c9a;
+  font-weight: bold;
 }
 
 #contact-form {
   margin: 100px 700px;
   font-size: 18px;
+  color: #d88c9a;
+  font-weight: bold;
 }
 
 .resume-container, .resume-intro {
   justify-content: center;
   margin: 50px;
   font-size: 18px;
+  color: #d88c9a;
+  font-weight: bold;
 }
 
-.nav-link, .link {
-  color:orange
+.nav-link, .link, .btn {
+  color: #660033;
+  font-weight: bold;
 }
 
+.nav-link:hover, .link:hover {
+  color: #d88c9a;
+  font-weight: bold;
+  text-decoration: none;
+}
 
+.active {
+  color: #d88c9a;
+}
+
+.banner {
+  width: 100%;
+}
