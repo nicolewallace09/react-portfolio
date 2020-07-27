@@ -33,7 +33,7 @@ function Projects () {
     </div>
 
     <div className="key">
-    <p>Key:</p>
+    <h2 class="key-title"><i>Key:</i></h2>
     <img src="https://img.icons8.com/carbon-copy/35/000000/internet.png" alt="app-icon" id="key-icon"/>= Deployed Application
     <img src="https://img.icons8.com/dotty/30/000000/repository.png" alt="github-icon" id="key-icon"/>= Git Hub Repository
     </div>
@@ -49,7 +49,7 @@ function Projects () {
           />
         ))}
       </Wrapper>
-      
+
     <div className="github-link">
     To view more of my projects, including Back End Development <a href="https://github.com/nicolewallace09">click here</a>
     </div>

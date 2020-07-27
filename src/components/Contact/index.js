@@ -44,24 +44,27 @@ return (
     <section>
         <h1 data-testid='h1tag'>CONTACT ME</h1>
         <form id="contact-form">
-            <div>
+            <div class="col-12">
                 <label htmlFor="name">Name:</label>
-                <input type="text" defaultValue={name} onBlur={handleChange} name="name" />
+                <input type="text" class="form-control" width="100px" defaultValue={name} onBlur={handleChange} name="name" />
             </div>
-            <div>
+            <div class="col-12">
                 <label htmlFor="email">Email address:</label>
-                <input type="email" defaultValue={email} onBlur={handleChange} name="email" />
+                <input type="email" class="form-control" defaultValue={email} onBlur={handleChange} name="email" />
             </div>
-            <div>
+            <div class="col-12">
                 <label htmlFor="message">Message:</label>
-                <textarea name="message" defaultValue={message} onBlur={handleChange} rows="5" />
+                <textarea name="message" class="form-control" defaultValue={message} onBlur={handleChange} rows="5" />
             </div> 
             {errorMessage && (
             <div>
                 <p className="error-text">{errorMessage}</p>
             </div>
             )}
-            <button data-testid='button' type="submit" onSubmit={handleSubmit}>Submit</button>
+            <br></br>
+            <div class="col-12">
+            <button data-testid='button' class="btn btn-outline-secondary" type="submit" onSubmit={handleSubmit}>Submit</button>
+            </div>
         </form>
     </section>
     );
