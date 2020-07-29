@@ -140,8 +140,8 @@ h1 {
   font-weight: bold;
 }
 
-#contact-form {
-  margin: 100px 700px;
+#contact-form, input {
+  margin: 100px 500px;
   font-size: 18px;
   color: #d88c9a;
   font-weight: bold;
