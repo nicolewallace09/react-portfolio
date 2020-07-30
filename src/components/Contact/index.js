@@ -42,15 +42,15 @@ return (
     <section>
         <h1 data-testid='h1tag' className="contact">CONTACT ME</h1>
         <form id="contact-form">
-            <div class="col-8">
+            <div class="col-12">
                 <label htmlFor="name">Name:</label>
                 <input type="text" class="form-control" width="100px" defaultValue={name} onBlur={handleChange} name="name" />
             </div>
-            <div class="col-8">
+            <div class="col-12">
                 <label htmlFor="email">Email address:</label>
                 <input type="email" class="form-control" defaultValue={email} onBlur={handleChange} name="email" />
             </div>
-            <div class="col-8">
+            <div class="col-12">
                 <label htmlFor="message">Message:</label>
                 <textarea name="message" class="form-control" defaultValue={message} onBlur={handleChange} rows="5" />
             </div> 
