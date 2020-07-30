@@ -52,7 +52,7 @@ return (
             </div>
             <div class="col-12">
                 <label htmlFor="message">Message:</label>
-                <textarea name="message" class="form-control" defaultValue={message} onBlur={handleChange} rows="5" />
+                <textarea name="message" class="form-control" defaultValue={message} onBlur={handleChange} rows="7" />
             </div> 
             {errorMessage && (
             <div>
