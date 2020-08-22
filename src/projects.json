@@ -1,6 +1,14 @@
 [
-    {
+  {
     "id": 1,
+    "name": "Pandemopedia",
+    "image": "https://github.com/nicolewallace09/pandemopedia/raw/master/client/public/screen1.png",
+    "github": "https://github.com/nicolewallace09/pandemopedia",
+    "deployedapp": "https://pandemopedia.herokuapp.com/",
+    "skills": "React | MERN | Recharts | API"
+    },
+    {
+    "id": 2,
     "name": "Travel Planner",
     "image": "https://raw.githubusercontent.com/izabelacloud/Travel-Planner/master/assets/images/App1.png",
     "github": "https://github.com/nicolewallace09/travel-planner",
@@ -8,7 +16,7 @@
     "skills": "HTML | CSS | JavaScript | API"
     },
     {
-    "id": 2,
+    "id": 3,
     "name": "Techly",
     "image": "https://github.com/nicolewallace09/techly/raw/master/assets/images/screenshot.png",
     "github": "https://github.com/nicolewallace09/techly",
@@ -16,7 +24,7 @@
     "skills": "Express | MySQL | API"
     },
     {
-    "id": 3,
+    "id": 4,
     "name": "Budget Tracker",
     "image": "https://github.com/nicolewallace09/budget-tracker/raw/master/public/screen.png",
     "github": "https://github.com/nicolewallace09/budget-tracker",
@@ -24,7 +32,7 @@
     "skills": "IndexDB | Service Workers | Web Manifest"
     },
     {
-    "id": 4,
+    "id": 5,
     "name": "The Tech Blog",
     "image": "https://github.com/nicolewallace09/the-tech-blog/raw/master/assets/images/screen.png",
     "github": "https://github.com/nicolewallace09/the-tech-blog",
@@ -32,7 +40,7 @@
     "skills": "Handlebars | Sequelize | Express | API"
     },
     {
-    "id": 5,
+    "id": 6,
     "name": "Work Day Scheduler",
     "image": "https://github.com/nicolewallace09/work-day-scheduler/raw/master/assets/images/calender-shot.png",
     "github": "https://github.com/nicolewallace09/work-day-scheduler",
@@ -40,7 +48,7 @@
     "skills": "JavaScript | jQuery | API"
       },
     {
-    "id": 6,
+    "id": 7,
     "name": "Note Taker",
     "image": "https://github.com/nicolewallace09/note-taker/raw/master/image/note-taker.png",
     "github": "https://github.com/nicolewallace09/note-taker",
