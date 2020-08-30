@@ -40,7 +40,7 @@ function ContactForm() {
 
 return (
     <section>
-        <h1 data-testid='h1tag' className="contact">CONTACT ME</h1>
+        <h1 data-testid='h1tag' className="contact">CONTACT ME (UNDER CONSTRUCTION)</h1>
         <form id="contact-form">
             <div class="col-12">
                 <label htmlFor="name">Name:</label>
