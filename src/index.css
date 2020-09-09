@@ -39,8 +39,8 @@ h1 {
 }
 
 #about-container {
-  padding: 100px;
-  margin: 0px 100px;
+  padding: 20px;
+  margin: 0px 50px;
 }
 
 .welcome, .key-title, .resume, .name, .title, .contact {
@@ -103,10 +103,10 @@ h1 {
   overflow: auto;
 }
 
-#footer {
+/* #footer {
   margin: auto 700px;
   padding: 5px;
-}
+} */
 
 .icon {
   padding: 10px;
@@ -149,7 +149,7 @@ h1 {
 
 .resume-container, .resume-intro {
   justify-content: center;
-  margin: 50px;
+  margin: 50px 100px;
   font-size: 18px;
   color: #d88c9a;
   font-weight: bold;
@@ -172,4 +172,14 @@ h1 {
 
 .banner {
   width: 100%;
+}
+
+.my-image {
+  border-radius: 50%;
+  padding: 50px 50px;
+}
+
+.contact-container {
+  margin: 100px;
+  justify-content: center;
 }
