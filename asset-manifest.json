@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.f7aaac20.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.21bd5da6.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.21bd5da6.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.87bd482d.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.ef9d39b8.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ef9d39b8.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.af3c1da9.chunk.css": "/react-portfolio/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.98b82c6a.chunk.js": "/react-portfolio/static/js/2.98b82c6a.chunk.js",
-    "static/js/2.98b82c6a.chunk.js.map": "/react-portfolio/static/js/2.98b82c6a.chunk.js.map",
+    "static/js/2.2e0c4018.chunk.js": "/react-portfolio/static/js/2.2e0c4018.chunk.js",
+    "static/js/2.2e0c4018.chunk.js.map": "/react-portfolio/static/js/2.2e0c4018.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.4f920d7d07b66485cc38b1baf7713354.js": "/react-portfolio/precache-manifest.4f920d7d07b66485cc38b1baf7713354.js",
+    "precache-manifest.4e4a745c590cd1c123ef54e3efe14135.js": "/react-portfolio/precache-manifest.4e4a745c590cd1c123ef54e3efe14135.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/react-portfolio/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.f7aaac20.chunk.css.map": "/react-portfolio/static/css/main.f7aaac20.chunk.css.map",
-    "static/js/2.98b82c6a.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.98b82c6a.chunk.js.LICENSE.txt",
+    "static/css/main.87bd482d.chunk.css.map": "/react-portfolio/static/css/main.87bd482d.chunk.css.map",
+    "static/js/2.2e0c4018.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2e0c4018.chunk.js.LICENSE.txt",
+    "static/media/myflower.png": "/react-portfolio/static/media/myflower.6db1aa0f.png",
     "static/media/myimage.jpeg": "/react-portfolio/static/media/myimage.c423121f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.98b82c6a.chunk.js",
-    "static/css/main.f7aaac20.chunk.css",
-    "static/js/main.21bd5da6.chunk.js"
+    "static/js/2.2e0c4018.chunk.js",
+    "static/css/main.87bd482d.chunk.css",
+    "static/js/main.ef9d39b8.chunk.js"
   ]
 }
