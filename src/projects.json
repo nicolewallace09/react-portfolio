@@ -5,7 +5,8 @@
     "image": "https://github.com/nicolewallace09/pandemopedia/raw/master/client/public/screen1.png",
     "github": "https://github.com/nicolewallace09/pandemopedia",
     "deployedapp": "https://guarded-ocean-19687.herokuapp.com/",
-    "skills": "React | MERN | Recharts | API"
+    "description": "An application to provide numbers of confirmed cases, active cases, recovered cases, and deaths tolls due to COVID-19.",
+    "skills": "React | MERN | Recharts | John Hopkins API | Bootstrap"
     },
     {
     "id": 2,
@@ -13,7 +14,8 @@
     "image": "https://raw.githubusercontent.com/izabelacloud/Travel-Planner/master/assets/images/App1.png",
     "github": "https://github.com/nicolewallace09/travel-planner",
     "deployedapp": "https://nicolewallace09.github.io/travel-planner/",
-    "skills": "HTML | CSS | JavaScript | API"
+    "description": "The Travel Planner application is aimed to allow users to search and manage flights and hotels for their desired dates and cities.",
+    "skills": "HTML | CSS | JavaScript | Sky Scanner/ Hotel Look API | MaterializeCSS"
     },
     {
     "id": 3,
@@ -21,7 +23,8 @@
     "image": "https://github.com/nicolewallace09/techly/raw/master/assets/images/screenshot.png",
     "github": "https://github.com/nicolewallace09/techly",
     "deployedapp": "https://techly.herokuapp.com/",
-    "skills": "Express | MySQL | API"
+    "description": "This project is a CMS-style social networking site where developers can publish posts and comment on other developers post.",
+    "skills": "Express | MySQL | API | Handlebars | MVC | ORM | Express"
     },
     {
     "id": 4,
@@ -29,6 +32,7 @@
     "image": "https://github.com/nicolewallace09/budget-tracker/raw/master/public/screen.png",
     "github": "https://github.com/nicolewallace09/budget-tracker",
     "deployedapp": "https://nw-budget-app.herokuapp.com/",
+    "description": "This project is an application that allows users to add expenses and deposits to their budget with or without internet connection.",
     "skills": "IndexDB | Service Workers | Web Manifest"
     },
     {
@@ -37,7 +41,8 @@
     "image": "https://github.com/nicolewallace09/the-tech-blog/raw/master/assets/images/screen.png",
     "github": "https://github.com/nicolewallace09/the-tech-blog",
     "deployedapp": "https://dry-harbor-54501.herokuapp.com/",
-    "skills": "Handlebars | Sequelize | Express | API"
+    "description": "A blog where developers can publish their blog posts and comment on other developers post and can create sign up or login into an account.",
+    "skills": "Handlebars | Sequelize | Express | API | MVC | ORM"
     },
     {
     "id": 6,
@@ -45,14 +50,16 @@
     "image": "https://github.com/nicolewallace09/work-day-scheduler/raw/master/assets/images/calender-shot.png",
     "github": "https://github.com/nicolewallace09/work-day-scheduler",
     "deployedapp": "https://nicolewallace09.github.io/work-day-scheduler/",
-    "skills": "JavaScript | jQuery | API"
-      },
+    "description": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
+    "skills": "JavaScript | jQuery | API | DOM"
+    },
     {
     "id": 7,
     "name": "Note Taker",
     "image": "https://github.com/nicolewallace09/note-taker/raw/master/image/note-taker.png",
     "github": "https://github.com/nicolewallace09/note-taker",
     "deployedapp": "https://note-express.herokuapp.com/notes",
-    "skills": "Node | Express | API"
+    "description": "This application was created to allow users to read, write, save, and delete notes.",
+    "skills": "Node | Express | AJAX | jQuery"
     }
 ]

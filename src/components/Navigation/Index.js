@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Navigation (props) {
-  const tabs = ['About Me', 'Portfolio', 'Contact', 'Resume'];
+  const tabs = ['about', 'portfolio', 'contact'];
   return (
     <ul className="nav">
       {tabs.map(tab => (

@@ -14,8 +14,13 @@ function ProjectCard(props) {
               <p className="project-title">{props.name}</p>
             </li>
             <li>
-              <a href={props.github}><img src="https://img.icons8.com/dotty/50/000000/repository.png" alt="github-icon" id="port-icon"/></a> 
-              <a href={props.deployedapp}><img src="https://img.icons8.com/carbon-copy/65/000000/internet.png" alt="app-icon" id="port-icon"/></a> 
+            <p className="project-description">{props.description}</p>
+            </li>
+            <li>
+              <div className="project-icons">
+              <a href={props.github}><img src="https://img.icons8.com/ios/40/000000/github.png" alt="github-icon" id="port-icon"/></a> 
+              <a href={props.deployedapp}><img src="https://img.icons8.com/metro/35/000000/cursor.png" alt="app-icon" id="port-icon"/></a> 
+              </div>
             </li>
             <li>
             {props.skills}
@@ -34,17 +39,7 @@ function Projects () {
     return (
     <>
     <div className="project">
-    <h1 className="title">FULL STACK PROJECTS</h1>
-    </div>
-
-    <div className="key">
-    <h2 class="key-title">Key:</h2>
-    <img src="https://img.icons8.com/dotty/30/000000/repository.png" alt="github-icon" id="key-icon"/>= Git Hub Repository
-    <img src="https://img.icons8.com/carbon-copy/35/000000/internet.png" alt="app-icon" id="key-icon"/>= Deployed Application
-    </div>
-
-    <div className="github-link">
-    View my full <a href="https://github.com/nicolewallace09" className="link">projects list</a>
+    <h1 className="title">full stack projects</h1>
     </div>
 
       <Wrapper>
@@ -56,6 +51,7 @@ function Projects () {
           github={project.github}
           deployedapp={project.deployedapp}
           skills={project.skills}
+          description={project.description}
           />
         ))}
       </Wrapper>

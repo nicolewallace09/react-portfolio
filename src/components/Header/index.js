@@ -12,14 +12,14 @@ function Portfolio() {
     const renderPage = () => {
         // switch statement that will return the appropriate component of the 'currentPage'
         switch(currentPage) {
-          case "About": 
+          case "about": 
           return <About></About>
-          case "Contact": 
+          case "contact": 
           return <Contact></Contact>
-          case "Portfolio":
+          case "portfolio":
           return  <Projects></Projects>
-          case "Resume": 
-          return <Resume></Resume>
+          // case "resume": 
+          // return <Resume></Resume>
           default:
             return <About></About>
         }
