@@ -9,11 +9,7 @@ function About() {
     return(
     <section className="title">
       
-      <div className="row" id="about-container">
-      <Col lg={4} md={4}>
-          <img src={flowerImage} className="image" alt="profile"/>
-      </Col>
-         
+      <div className="row justify-content-center" id="about-container">       
       <Col lg={6} md={12}>
       <center><img src={myImage} className="my-image" alt="nicole-profile"/></center>
       <p class="name">nicole wallace</p>
